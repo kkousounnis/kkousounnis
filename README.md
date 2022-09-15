@@ -1,8 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning JAVA with Spring Boot and JavaScript with React 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kkousounnis&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kkousounnis&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkousounnis&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkousounnis&layout=compact"/>
 
 <!--
 **kkousounnis/kkousounnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
