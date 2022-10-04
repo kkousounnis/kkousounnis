@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning JAVA with Spring Boot and JavaScript with React Linux Architecture, Docker 
+🌱 I’m currently learning JAVA with Spring Boot, JavaScript with React, NoSql databases MongoDb and Docker Containers
 
 <img src="https://github-readme-stats.vercel.app/api?username=kkousounnis&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkousounnis&layout=compact"/>
 
