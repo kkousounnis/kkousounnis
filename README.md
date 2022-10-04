@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning JAVA with Spring Boot and JavaScript with React 
+🌱 I’m currently learning JAVA with Spring Boot and JavaScript with React Linux Architecture, Docker 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kkousounnis&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkousounnis&layout=compact"/>
 
